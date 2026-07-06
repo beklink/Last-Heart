@@ -1,0 +1,27 @@
+modLoader="javafxmod"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="lastheart"
+version="${file.jarVersion}"
+displayName="Last Heart"
+displayURL="https://github.com/beklink/Last-Heart"
+authors="beklink"
+description="""Minecraft Hardcore rejimi modifikatsiyasi. O'lim bilan yurak yo'qoladi. Maksimal 20 ta yurakga yetishi mumkin.
+
+Hardcore mode modification for Minecraft. Each death removes one heart. Maximum 20 hearts total."""
+
+[[dependencies.lastheart]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.lastheart]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"

@@ -1,0 +1,10 @@
+{
+  "item.lastheart.heart_soul": "Heart Soul",
+  "item.lastheart.half_heart": "Half Heart",
+  "item.lastheart.heart_tier": "Heart Tier",
+  "item.lastheart.extra_heart": "Extra Heart",
+  "chat.lastheart.heart_lost": "Heart lost! Remaining: %s",
+  "chat.lastheart.heart_added": "Heart added! Total: %s",
+  "chat.lastheart.max_hearts": "Maximum hearts reached!",
+  "chat.lastheart.game_over": "GAME OVER! Last heart lost!"
+}

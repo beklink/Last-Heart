@@ -1,0 +1,10 @@
+{
+  "item.lastheart.heart_soul": "Yurak-Ruh",
+  "item.lastheart.half_heart": "Yarim Yurak",
+  "item.lastheart.heart_tier": "Yurak Darajasi",
+  "item.lastheart.extra_heart": "Qo'shimcha Yurak",
+  "chat.lastheart.heart_lost": "Yurak yo'qoldi! Qolgan: %s",
+  "chat.lastheart.heart_added": "Yurak qo'shildi! Jami: %s",
+  "chat.lastheart.max_hearts": "Maksimal yurakka yetdingiz!",
+  "chat.lastheart.game_over": "O'YIN TUGADI! Oxirgi yurak yo'qoldi!"
+}
