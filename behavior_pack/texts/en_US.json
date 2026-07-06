@@ -1,0 +1,21 @@
+{
+  "format_version": 1,
+  "texts": [
+    {
+      "text": "chat.lastheart.give",
+      "translate": "chat.lastheart.give"
+    },
+    {
+      "text": "chat.lastheart.set",
+      "translate": "chat.lastheart.set"
+    },
+    {
+      "text": "chat.lastheart.remove",
+      "translate": "chat.lastheart.remove"
+    },
+    {
+      "text": "chat.lastheart.reset",
+      "translate": "chat.lastheart.reset"
+    }
+  ]
+}

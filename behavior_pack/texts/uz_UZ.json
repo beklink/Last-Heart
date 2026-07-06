@@ -1,0 +1,21 @@
+{
+  "format_version": 1,
+  "texts": [
+    {
+      "text": "Yurak qo'shildi!",
+      "translate": "chat.lastheart.give"
+    },
+    {
+      "text": "Yurak o'rnatildi!",
+      "translate": "chat.lastheart.set"
+    },
+    {
+      "text": "Yurak olib tashlandi!",
+      "translate": "chat.lastheart.remove"
+    },
+    {
+      "text": "Yuraklar reset qilindi!",
+      "translate": "chat.lastheart.reset"
+    }
+  ]
+}

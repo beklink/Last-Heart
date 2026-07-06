@@ -1,0 +1,19 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Last Heart Resource Pack",
+    "name": "Last Heart Resources",
+    "uuid": "11111111-2222-3333-4444-555555555555",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 19, 0]
+  },
+  "modules": [
+    {
+      "description": "Last Heart Resource Pack",
+      "type": "resources",
+      "uuid": "99999999-8888-7777-6666-555555555555",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": []
+}

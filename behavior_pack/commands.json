@@ -1,0 +1,32 @@
+{
+  "format_version": "1.12.0",
+  "namespace": "lastheart",
+  "groups": [
+    {
+      "name": "Last Heart",
+      "description": "Minecraft Bedrock Last Heart Mod",
+      "commands": [
+        {
+          "name": "/lastheart give",
+          "description": "Yurakni o'ziga qo'shish",
+          "usage_text": "/lastheart give <player: target>"
+        },
+        {
+          "name": "/lastheart set",
+          "description": "Yurak sonini o'rnatish",
+          "usage_text": "/lastheart set <player: target> <count: int>"
+        },
+        {
+          "name": "/lastheart remove",
+          "description": "Yurakni olib olish",
+          "usage_text": "/lastheart remove <player: target>"
+        },
+        {
+          "name": "/lastheart reset",
+          "description": "Yurakni defaultga qaytarish",
+          "usage_text": "/lastheart reset <player: target>"
+        }
+      ]
+    }
+  ]
+}
